@@ -1,0 +1,5 @@
+variables: es una caja que se le debe asignar un nombre y le asignamos un valor (string, booleanos, números).
+Strings: son cadenas, es decir, pablabras. Pero deben tener comillas para que se reconozca como string.
+Función: son acciones, el argumento es un valor que nosotros declaramos, y return indica lo que nosotros queremos que nos devuelva la funcion, cuando la llamamos.
+If: significa si, con ella podemos crear una condición.
+Valores Booleanos: true o flase, si es verdadera o falso.  
